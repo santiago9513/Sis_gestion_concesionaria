@@ -1,0 +1,79 @@
+{
+    "1": {
+        "dominio": "abc123",
+        "marca": "volk",
+        "modelo": "gol",
+        "tipo": "",
+        "a\u00f1o": "",
+        "kilometraje": "",
+        "precio_compra": "",
+        "precio_venta": "4000",
+        "estado": "vendido"
+    },
+    "2": {
+        "dominio": "cba321",
+        "marca": "volk",
+        "modelo": "upi",
+        "tipo": "",
+        "a\u00f1o": "",
+        "kilometraje": "",
+        "precio_compra": "",
+        "precio_venta": "5000",
+        "estado": "vendido"
+    },
+    "3": {
+        "dominio": "aaa111",
+        "marca": "mercedes",
+        "modelo": "benz",
+        "tipo": "",
+        "a\u00f1o": "",
+        "kilometraje": "",
+        "precio_compra": "",
+        "precio_venta": "4000",
+        "estado": "usado"
+    },
+    "4": {
+        "dominio": "bbb222",
+        "marca": "chevrolet",
+        "modelo": "corsa",
+        "tipo": "",
+        "a\u00f1o": "",
+        "kilometraje": "",
+        "precio_compra": "",
+        "precio_venta": "5000",
+        "estado": "usado"
+    },
+    "5": {
+        "dominio": "ccc333",
+        "marca": "fiat",
+        "modelo": "cronos",
+        "tipo": "sedan",
+        "a\u00f1o": "2022",
+        "kilometraje": "30000",
+        "precio_compra": "",
+        "precio_venta": "14000",
+        "estado": "disponibles"
+    },
+    "6": {
+        "dominio": "ddd444",
+        "marca": "peugeot",
+        "modelo": "206",
+        "tipo": "",
+        "a\u00f1o": "2020",
+        "kilometraje": "80000",
+        "precio_compra": "",
+        "precio_venta": "5000",
+        "estado": ""
+    },
+    "7": {
+        "dominio": "fff666",
+        "marca": "peugeot",
+        "modelo": "206",
+        "tipo": "",
+        "a\u00f1o": "2020",
+        "kilometraje": "",
+        "precio_compra": "",
+        "precio_venta": "9000",
+        "estado": "vendido"
+    }
+}

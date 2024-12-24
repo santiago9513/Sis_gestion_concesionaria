@@ -1,0 +1,66 @@
+{
+    "1": {
+        "id_vehiculo": "1",
+        "id_cliente": "1",
+        "tipo": "compra",
+        "fecha": "19/06/2024",
+        "monto": "5400",
+        "observaciones": "na"
+    },
+    "2": {
+        "id_vehiculo": "4",
+        "id_cliente": "5",
+        "tipo": "venta",
+        "fecha": "21/06/2024",
+        "monto": "4000",
+        "observaciones": ""
+    },
+    "3": {
+        "id_vehiculo": "3",
+        "id_cliente": "1",
+        "tipo": "compra",
+        "fecha": "21/06/2024",
+        "monto": "4000",
+        "observaciones": "n"
+    },
+    "4": {
+        "id_vehiculo": "5",
+        "id_cliente": "6",
+        "tipo": "compra",
+        "fecha": "21/06/2024",
+        "monto": "13500",
+        "observaciones": "n"
+    },
+    "5": {
+        "id_vehiculo": "6",
+        "id_cliente": "2",
+        "tipo": "venta",
+        "fecha": "23/06/2024",
+        "monto": "5000",
+        "observaciones": ""
+    },
+    "6": {
+        "id_vehiculo": "2",
+        "id_cliente": "1",
+        "tipo": "venta",
+        "fecha": "23/06/2024",
+        "monto": "5000",
+        "observaciones": ""
+    },
+    "7": {
+        "id_vehiculo": 7,
+        "id_cliente": "1",
+        "tipo": "venta",
+        "fecha": "23/06/2024",
+        "monto": "9000",
+        "observaciones": "n"
+    },
+    "8": {
+        "id_vehiculo": 7,
+        "id_cliente": "1",
+        "tipo": "venta",
+        "fecha": "23/06/2024",
+        "monto": "9000",
+        "observaciones": "n"
+    }
+}

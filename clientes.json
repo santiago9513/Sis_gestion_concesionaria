@@ -1,0 +1,42 @@
+{
+    "1": {
+        "nombre": "santiago",
+        "apellido": "carro",
+        "documento": "39098324",
+        "direccion": "mar del plata",
+        "telefono": "223",
+        "correo": "d"
+    },
+    "2": {
+        "nombre": "julieta",
+        "apellido": "castro",
+        "documento": "1111",
+        "direccion": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "4": {
+        "nombre": "santiago",
+        "apellido": "carro2",
+        "documento": "444",
+        "direccion": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "5": {
+        "nombre": "juan",
+        "apellido": "carlos segundo",
+        "documento": "2345432",
+        "direccion": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "6": {
+        "nombre": "loki",
+        "apellido": "carro",
+        "documento": "001",
+        "direccion": "cuchita",
+        "telefono": "223",
+        "correo": ""
+    }
+}
