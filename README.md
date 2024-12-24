@@ -37,7 +37,7 @@ Este sistema está diseñado para gestionar de manera eficiente las operaciones 
 
 ---
 
-## **Video con explicacion en detalle de funcionamiento del codigo**
+## **Fragmento de presentacion con explicacion en detalle de funcionamiento del codigo**
   
   [![Mira el video en YouTube](https://img.youtube.com/vi/-YvR8CUqmU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YvR8CUqmU4)
 
