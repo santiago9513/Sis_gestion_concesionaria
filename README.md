@@ -39,10 +39,12 @@ Este sistema está diseñado para gestionar de manera eficiente las operaciones 
 
 ## **Videos de Presentación**
 
-- **Ejecución del Sistema:**  
+- **Ejecución del Sistema:**
+  
   [![Mira el video en YouTube](https://img.youtube.com/vi/CwvD74Q7fsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=CwvD74Q7fsQ)
 
-- **Código del Proyecto:**  
+- **Código del Proyecto:**
+  
   [![Mira el video en YouTube](https://img.youtube.com/vi/-YvR8CUqmU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YvR8CUqmU4)
 
 ---
