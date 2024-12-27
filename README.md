@@ -1,8 +1,13 @@
 # **Sistema de Gestión de Concesionaria de Vehículos Usados**
-
-### Desarrollado en Python | Proyecto Final de Programación I  
+**Desarrollado en Python**  
+**Proyecto Final - Programación I**  
 **Universidad Nacional de Entre Ríos**  
-**Tecnicatura Universitaria en Desarrollo Web** 
+**Tecnicatura Universitaria en Desarrollo Web**  
+
+**Tecnologías Utilizadas:**  
+- Python  
+- Archivos JSON  
+- Visual Studio Code 
 
 ---
 
@@ -11,12 +16,29 @@ Este sistema está diseñado para gestionar de manera eficiente las operaciones 
 
 ---
 
-## **Videos de Presentación**
+## **Lo que Aprendí**
 
-- **Ejecución del Sistema:**  
-  [![Mira el video en YouTube](https://img.youtube.com/vi/CwvD74Q7fsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=CwvD74Q7fsQ)
+#### **Permanencia de Datos con JSON**
+- **Comprensión del Concepto de Persistencia:** Aprendí a manejar datos persistentes utilizando archivos JSON, lo que me permitió guardar información entre ejecuciones del programa sin perder los datos. Esto fue crucial para mantener registros de manera permanente, como en la gestión de vehículos, clientes y transacciones.
 
-- **Código del Proyecto:**  
+#### **Estructuración y Manejo de los Datos**
+- **Organización de Datos en JSON:** Aprendí a estructurar datos de manera eficiente utilizando JSON, lo que permitió representar de forma clara las entidades de mi sistema, como vehículos, clientes y transacciones. 
+- **Normalización de la Información:** Me familiaricé con el concepto de normalización en la organización de datos, asegurando que las relaciones entre vehículos, clientes y transacciones estuvieran bien definidas para evitar redundancias y errores de integridad.
+- **Acceso y Modificación de Datos:** A lo largo del proyecto, desarrollé habilidades para navegar y manipular estructuras de datos complejas, como listas y diccionarios, a fin de realizar consultas, inserciones y modificaciones de manera eficiente.
+
+#### **Modularización con Funciones**
+- **Desarrollo de Funciones Reutilizables:** Aprendí a modularizar el código creando funciones que abstraen tareas específicas, como agregar vehículos, registrar transacciones y buscar información. Esto no solo mejoró la legibilidad del código, sino también su mantenibilidad.
+- **Descomposición de Problemas Complejos:** Implementar funciones me permitió descomponer el proyecto en pequeñas tareas manejables, lo cual facilita la resolución de problemas y mejora la organización general del código.
+- **Facilitación de Pruebas:** Al dividir el código en funciones, aprendí a probar partes del sistema de manera más aislada, lo que facilitó la identificación de errores y la mejora de la calidad del software.
+
+#### **Desarrollo Ágil**
+- **Iteración Rápida y Mejora Continua:** A través de la implementación de características y pruebas constantes, aprendí a trabajar de manera ágil, mejorando y ajustando el sistema de forma continua según los requerimientos del proyecto.
+- **Priorización de Funcionalidades:** Aprendí a identificar las funcionalidades esenciales para el funcionamiento del sistema, implementando las más importantes primero y ajustando características secundarias de acuerdo con el progreso del proyecto.
+
+---
+
+## **Fragmento de presentacion con explicacion en detalle de funcionamiento del codigo**
+  
   [![Mira el video en YouTube](https://img.youtube.com/vi/-YvR8CUqmU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YvR8CUqmU4)
 
 ---
@@ -80,7 +102,3 @@ Desarrollar una solución de software que permita automatizar los procesos relac
 
 ---
 
-## **Tecnologías Utilizadas**
-- **Lenguaje:** Python  
-- **Almacenamiento:** Archivos JSON  
-- **IDE:** Visual Studio Code
